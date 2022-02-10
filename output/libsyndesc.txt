@@ -1,0 +1,13 @@
+<li><a href="https://www.electromaker.io/project/view/petoicampopencat">OpenCat on Electromaker</a></li>
+<li><a href="Low Level Learning on Rust on Pi Pico">00:32</a></li>
+<li><a href="02:33">https://youtu.be/Yi0WRF5WPFw</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZPSqhb4KKNc">Low Level Learning on Rust on AVR</a></li>
+<li><a href="Modular Synth and the Apple II? SQUEEEE">02:33</a></li>
+<li><a href="06:05">https://hackaday.com/2022/02/04/modular-synth-pairs-perfectly-with-the-apple-ii/</a></li>
+<li><a href="https://www.youtube.com/watch?v=vbd0ShdMqYE">Eran Fiet playing Atari tennis with a real bat</a></li>
+<li><a href="Mico RP2040 powered USB PDM Mic">08:58</a></li>
+<li><a href="15:45">https://www.crowdsupply.com/electronut-labs/mico</a></li>
+<li><a href="https://twitter.com/arduino/status/1491074751476944900">Arduino CLI new version released</a></li>
+<li><a href="New Pi Bootloader">17:57</a></li>
+<li><a href="19:04">https://www.electromaker.io/blog/article/raspberry-pi-wants-you-to-test-its-new-network-installer</a></li>
+<li><a href="https://hackaday.com/2022/02/04/cadquery-comes-of-age/ ">CadQuery is really good now</a></li>
