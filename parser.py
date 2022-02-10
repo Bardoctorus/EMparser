@@ -1,6 +1,5 @@
 import sys
 
-# TODO implement the Youtube times
 
 filepath = 'input/ems072.txt' 
 
@@ -22,30 +21,23 @@ mcf = open("output/mailchimplist" , 'a')
 # function for youtube
 def makeYT(lines):
     counter = 1
-    for line in lines:
-        if counter % 2 != 0:
-            ytf.write(line.strip('\n')+ ': ')
-            print('if: counter is: {}, adding {} to file'.format(str(counter),str(line)))
-        else:
-            ytf.write(line)
-            print('else: counter is: {}, adding {} to file'.format(str(counter),str(line)))
-        counter+=1 
+    while(counter < len(lines)-1):
+        text = lines[counter-1]
+        link = lines[counter]
+
+        ytf.write(text.strip('\n')+ ': '+link)
+        counter+=3
 
 # function for libsyn
 def makeLS(lines):
     counter = 1
-    text = ''
-    link = ''
-    for line in lines:
-        if counter % 2 == 0:
-            
-            link = line.strip('\n')
-            print('libsyn link = {}'.format(str(link)))
-            lsf.write('<li><a href="'+str(link)+'">'+str(text)+'</a></li>'+'\n')
-        else:
-            text = line.strip('\n')
-            print('libsyn text = {}'.format(str(text)))
-        counter+=1 
+    while(counter < len(lines)-1):
+        text = lines[counter-1]
+        link = lines[counter]
+
+        lsf.write('<li><a href="'+str(link)+'">'+str(text)+'</a></li>'+'\n')
+        counter+=3
+
 
 
 # function for mailchimp
@@ -58,6 +50,7 @@ def makeMC(lines, epno, yturl):
     for line in lines:
         if counter % 3 == 0:
             #parse mins:seconds into int inseconds for url
+            print('ifmod3: {}'.format(line))
             x, y = str(line).split(':')
             mins = int(x)
             secs = int(y)
@@ -67,9 +60,14 @@ def makeMC(lines, epno, yturl):
             mcf.write(link)
         else:
             if 'https://' in line:
-                continue
+                
+                print('if https: {}'.format(line))
+                pass
             else:
+                print('if else else: {}'.format(line))
                 text = str(line)
+    #increment the counter stoopod
+        counter+=1
 
     #add the closing unordered list tag
     mcf.write('</ul>')
