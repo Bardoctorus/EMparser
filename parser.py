@@ -8,7 +8,7 @@ if len(sys.argv) > 1:
     yturl = str(sys.argv[2])
     intro = str(sys.argv[3])
 else:
-    sys.exit("usage: python3 parser.py EPISODENUMBER YOUTUBEURL")
+    sys.exit('usage: python3 parser.py EPISODENUMBER YOUTUBEURL "intro paragraph"')
 print(epno)
 
 #make file for youtube
