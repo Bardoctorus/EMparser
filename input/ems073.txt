@@ -1,0 +1,33 @@
+O3-enabled BLE Weather Station Predicting Air Quality using TensorFlow
+https://www.electromaker.io/project/view/o3-enabled-ble-weather-station-predicting-air-quality-w-tf
+00:18
+Loopie RGB LED Lamp
+https://www.electromaker.io/project/view/loopie-diy-rgb-lamp 
+03:43
+How to buy Electronics in 2022 by Carl Bugeja
+https://youtu.be/lTghYyXcQPs
+05:57
+Digital Audio Processing with STM32 - #1 Introduction and Filters - Phil's Lab
+https://www.youtube.com/watch?v=VDhmVrbSpqA
+07:53
+Penkesu Computer: Homebrew Retro Handheld with Pi Zero 2 W
+https://github.com/penk/penkesu
+09:52
+Roundy on Kickstarter
+https://www.kickstarter.com/projects/picobarcodescanner/roundy-round-lcd-board-based-on-pico
+15:50
+MangoPi-Nezha MQ RISC-V dev kit on Crowd Supply
+https://www.crowdsupply.com/rt-thread/mangopi-nezha-mq
+19:37
+Aspinity Takes on TinyML, Claiming the Industry’s First Fully Analog ML Chip
+https://www.allaboutcircuits.com/news/aspinity-takes-on-tinyml-claiming-industrys-first-fully-analog-ml-chip/
+21:49
+Raspberry Pi Coolest Projects Global 2022 is go!
+https://www.raspberrypi.org/blog/coolest-projects-global-2022-registration-open/
+23:16
+Picamera2 is in early preview release
+https://www.raspberrypi.com/news/a-preview-release-of-the-picamera2-library/
+24:06
+A Biorobotic Fish made from Human Heart Cells
+https://blog.adafruit.com/2022/02/15/a-biohybrid-fish-made-of-human-heart-muscle/
+24:59

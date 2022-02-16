@@ -1,7 +1,6 @@
 import sys
 
 
-filepath = 'input/ems072.txt' 
 
 if len(sys.argv) > 1:
     epno = int(sys.argv[1])
@@ -10,6 +9,10 @@ if len(sys.argv) > 1:
 else:
     sys.exit('usage: python3 parser.py EPISODENUMBER YOUTUBEURL "intro paragraph"')
 print(epno)
+
+#create the path to the input file
+
+filepath = 'input/ems0'+epno+'.txt'
 
 #make file for youtube
 ytf = open("output/youtubedesc.txt", 'a')
@@ -103,6 +106,8 @@ with open(filepath, 'r') as f:
     #get lines and start counter
     print('fileopen')
     lines = f.readlines()
+    if len(lines) < 1:
+        exit("there's either no lines in the input file or something has gone teribly wrong")
     counter = 0
     print('line1: {}, line2: {}'.format(lines[0].strip('\n'),lines[1]).strip('\n'))
     # send each line to a different text maker thing
