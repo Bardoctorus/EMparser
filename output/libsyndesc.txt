@@ -1,0 +1,28 @@
+<p>This week's Electromaker Show is now available on YouTube and everywhere you get your podcasts!</p><p><span style="font-weight: 400;">Welcome to the Electromaker Show episode 93! This week we take a look at the Electromaker of the Month winners for October, two inventive crowd funding projects, and some awesome newly released embedded tech.</span></p><p>Tune in for the latest maker, tech, DIY, IoT, embedded, and crowdfunding news stories from the week.</p><p>&nbsp;</p><p><iframe title="YouTube video player" src="https://www.youtube.com/embed/rmjj9u0RUkg" width="560" height="315" frameborder="0"></iframe></p><p><span style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=rmjj9u0RUkg">Watch the show!</a></span></p><p><span style="font-weight: 400;">We publish a new show every week. Subscribe here:</span> <a href="https://www.youtube.com/channel/UCiMO2NHYWNiVTzyGsPYn4DA?sub_confirmation=1"> <span style="font-weight: 400;">https://www.youtube.com/channel/UCiMO2NHYWNiVTzyGsPYn4DA?sub_confirmation=1</span></a></p><p><span style="font-weight: 400;">We stock the latest products from Adafruit, Seeed Studio, Pimoroni, Sparkfun, and many more! Browse our shop:</span></p><p><a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbVI1SkM3TXE2Z3g4MzhqUHRUTFVkZVlBSEx0QXxBQ3Jtc0trOFhxMS1kLXdtQWNrYzFwMlhRN05Jako3WVgteVB3YWQ1MXg0YjNQVXdRRDJJeHNxVmZnTmF4cnpjYlZXQzRkUW9SRXN6cFVDTDBtR2pjLXVrYmtLR3EyekFvOC1INnE0Uk1OdDJTSXBmbXBqNTdkcw&amp;q=https%3A%2F%2Fwww.electromaker.io%2Fshop"> <span style="font-weight: 400;">https://www.electromaker.io/shop</span></a></p><p><span style="font-weight: 400;">Join us on Discord!</span> <a href="https://discord.com/invite/w8d7mkCkxj%E2%80%8B"><span style="font-weight: 400;">https://discord.com/invite/w8d7mkCkxj​</span></a></p><p><span style="font-weight: 400;">Follow us on Twitter:</span> <a href="https://twitter.com/ElectromakerIO"><span style="font-weight: 400;">https://twitter.com/ElectromakerIO</span></a></p><p><span style="font-weight: 400;">Like us on Facebook:</span> <a href="https://www.facebook.com/electromaker.io/"><span style="font-weight: 400;">https://www.facebook.com/electromaker.io/</span></a></p><p><span style="font-weight: 400;">Follow us on Instagram:</span> <a href="https://www.instagram.com/electromaker_io/"><span style="font-weight: 400;">https://www.instagram.com/electromaker_io/</span></a></p><p>Featured in this show:</p><ul><li><a href="https://www.electromaker.io/blog/article/electromaker-of-the-month-october-winners
+">Electromaker of the Month: October
+</a></li>
+<li><a href="https://www.electromaker.io/project/view/artificial-sunrise-headboard-with-voice-assistant-and-coffee
+">Smart Headboard: SECTOR_07 Project Lumen
+</a></li>
+<li><a href="https://hackaday.com/2022/10/31/need-an-usb-i2c-adapter-use-your-pico/
+">USB to I2C gets a Pico upgrade
+</a></li>
+<li><a href="https://www.crowdsupply.com/msl/pocket-integrator
+">Returning to the Pocket Integrator
+</a></li>
+<li><a href="https://www.crowdsupply.com/i-syst/blueio832-mini
+">BlueIO832 Mini
+</a></li>
+<li><a href="https://www.cnx-software.com/2022/11/28/orange-pi-14-inch-portable-monitor/
+">Orange Pi portable monitor
+</a></li>
+<li><a href="https://www.cnx-software.com/2022/11/28/lolin-s3-pro-esp32-s3-board-offers-display-port-microsd-card-slot/
+">LOLIN S3 Pro ESP32-S3 devboard
+</a></li>
+<li><a href="https://www.electromaker.io/blog/article/electronica-2022-infineons-nfc-batteryless-entryways-seem-like-wizardry
+">Electronica 2022: Infineon's NFC locks
+</a></li>
+<li><a href="https://www.electromaker.io/blog/article/electronica-2022-stephen-hawes-introduces-the-lumin-open-source-pnp-machine
+">Electronica 2022: Stephen Hawes
+</a></li>
+</ul>

@@ -1,0 +1,19 @@
+Electromaker of the Month: October: https://www.electromaker.io/blog/article/electromaker-of-the-month-october-winners
+Smart Headboard: SECTOR_07 Project Lumen: https://www.electromaker.io/project/view/artificial-sunrise-headboard-with-voice-assistant-and-coffee
+USB to I2C gets a Pico upgrade: https://hackaday.com/2022/10/31/need-an-usb-i2c-adapter-use-your-pico/
+Returning to the Pocket Integrator: https://www.crowdsupply.com/msl/pocket-integrator
+BlueIO832 Mini: https://www.crowdsupply.com/i-syst/blueio832-mini
+Orange Pi portable monitor: https://www.cnx-software.com/2022/11/28/orange-pi-14-inch-portable-monitor/
+LOLIN S3 Pro ESP32-S3 devboard: https://www.cnx-software.com/2022/11/28/lolin-s3-pro-esp32-s3-board-offers-display-port-microsd-card-slot/
+Electronica 2022: Infineon's NFC locks: https://www.electromaker.io/blog/article/electronica-2022-infineons-nfc-batteryless-entryways-seem-like-wizardry
+Electronica 2022: Stephen Hawes: https://www.electromaker.io/blog/article/electronica-2022-stephen-hawes-introduces-the-lumin-open-source-pnp-machine
+----------------------------------------------------------i
+Electromaker of the Month: October 00:51
+Smart Headboard: SECTOR_07 Project Lumen 06:50
+USB to I2C gets a Pico upgrade 11:39
+Returning to the Pocket Integrator 17:41
+BlueIO832 Mini 22:33
+Orange Pi portable monitor 29:24
+LOLIN S3 Pro ESP32-S3 devboard 30:56
+Electronica 2022: Infineon's NFC locks 32:12
+Electronica 2022: Stephen Hawes 35:18

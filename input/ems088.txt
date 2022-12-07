@@ -1,0 +1,31 @@
+Electromaker of the Month
+https://www.electromaker.io/blog/article/electromaker-of-the-month-august-winners
+01:02
+Eurocircuits comp discord update
+https://discord.com/invite/w8d7mkCkxj
+11:46
+Electromaker Educator: Which Language to Learn?
+https://www.youtube.com/watch?v=GCpQwqsOpfI
+15:02
+Macintosh get's Epaper display
+https://java.util.properties/blog/paper-mac.html
+16:08
+Conductive Fabric Instructable
+https://www.instructables.com/Touch-Me-Open-Universal-Input-Sleeve-OUIS/
+19:15
+Pocket Reform on Crowd Supply
+https://www.crowdsupply.com/mnt/pocket-reform
+28:58
+GlowStich LEDs on Crowd Supply
+https://www.crowdsupply.com/makerqueenau/glowstitch-leds
+32:19
+Femto: a tiny teeny RP2040 board
+https://www.cnx-software.com/2022/08/22/femto-tiny-raspberry-pi-rp2040-module/
+35:07
+NUCs vs Mini PCs
+https://www.electromaker.io/blog/article/single-board-computers-vs-mini-pcs-which-is-best
+36:32
+3D printed Electronic Guitar uses multiple ESP32
+https://www.youtube.com/watch?v=vJrge6eaxFY
+39:06
+

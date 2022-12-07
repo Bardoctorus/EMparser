@@ -1,0 +1,25 @@
+3d Printed Motion Controlled Pneumatic Tentacle
+https://www.electromaker.io/project/view/gesture-controlled-soft-robot-tentacle
+00:50
+Streamdeck Alternative
+https://www.electromaker.io/project/view/streamdeck-alternative-infinitedeck
+04:12
+Drop in WiFi for Arduino Uno
+https://youtu.be/0tduBfr3WM4
+10:04
+Electromaker Educator: power consumption and PPK2 giveaway! 
+https://www.electromaker.io/blog/article/how-to-reduce-power-consumption-in-your-embedded-projects
+14:05
+Bela Gliss on Crowd Supply
+https://www.crowdsupply.com/augmented-instruments/gliss
+21:27
+Inkplate 2 on Kickstarter
+https://www.kickstarter.com/projects/solderedelectronics/inkplate-2-a-easy-to-use-arduino-compatible-e-paper
+26:56
+EsPiFF ESP32 and RP2040 in Pi form factor
+https://www.cnx-software.com/2022/11/23/espiff-esp32-wrover-rp2040-mcu-raspberry-pi-4/
+32:33
+OKdo x Raxda ROCK 5 Model B
+https://www.electromaker.io/blog/article/electronica-2022-okdo-releases-rock-5-model-b-sbc
+36:16
+

@@ -1,5 +1,5 @@
 import sys
-
+from spreadsheet_appender import append_sheet
 
 
 if len(sys.argv) > 1:
@@ -12,7 +12,7 @@ print(epno)
 
 #create the path to the input file
 
-filepath = 'input/ems0'+epno+'.txt'
+filepath = 'input/ems0'+sys.argv[1]+'.txt'
 
 #make file for youtube
 ytf = open("output/youtubedesc.txt", 'a')
@@ -36,6 +36,7 @@ def makeYT(lines):
     counter = 1
     while(counter < len(lines)-1):
         text = str(lines[counter-1]).strip('\n')
+        append_sheet(text)
         number = lines [counter+1]
         ytf.write(text+' '+number)
         counter+=3
